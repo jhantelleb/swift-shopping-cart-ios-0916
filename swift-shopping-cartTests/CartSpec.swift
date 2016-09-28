@@ -43,6 +43,7 @@ class CartSpec: QuickSpec {
                 
                 junkFoodCart = Cart()
                 junkFoodCart.items = [🍕, 🌮,🍕2, 🍕, 🌮, 🌯, 🍕, 🍕2, 🌯]
+                
             }
             
             
